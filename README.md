@@ -30,6 +30,6 @@ Go Python React TypeScript TensorFlow Docker PostgreSQL Git
 ziadmakkawi16@gmail.com
 
 ### $ exit
-If you're hiring or want to chat about Go, let's connect! 🚀
+If you're hiring or want to chat about Backend opportunities, let's connect! 🚀
 
 
