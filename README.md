@@ -8,9 +8,9 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 | Metric | Count |
 |--------|-------|
-| 📦 **Total Repositories** | 24 |
+| 📦 **Total Repositories** | 25 |
 | ⭐ **Total Stars Received** | 2 |
-| 💻 **Total Commits** | 43 |
+| 💻 **Total Commits** | 44 |
 | 📝 **Lines of Code** | 354,565+ |
 | 👥 **Followers** | 3 |
 | 👤 **Following** | 6 |
@@ -37,7 +37,7 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 <div align="center">
 
-*📅 Last Updated: December 02, 2025 at 01:02 UTC*
+*📅 Last Updated: December 03, 2025 at 01:03 UTC*
 
 *This README is automatically updated using GitHub Actions*
 
