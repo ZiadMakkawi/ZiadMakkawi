@@ -10,8 +10,8 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 |--------|-------|
 | 📦 **Total Repositories** | 27 |
 | ⭐ **Total Stars Received** | 2 |
-| 💻 **Total Commits** | 44 |
-| 📝 **Lines of Code** | 354,565+ |
+| 💻 **Total Commits** | 47 |
+| 📝 **Lines of Code** | 354,574+ |
 | 👥 **Followers** | 3 |
 | 👤 **Following** | 6 |
 
@@ -37,7 +37,7 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 <div align="center">
 
-*📅 Last Updated: January 16, 2026 at 01:07 UTC*
+*📅 Last Updated: January 17, 2026 at 01:04 UTC*
 
 *This README is automatically updated using GitHub Actions*
 
