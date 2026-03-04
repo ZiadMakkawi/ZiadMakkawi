@@ -13,7 +13,7 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 | 💻 **Total Commits** | 47 |
 | 📝 **Lines of Code** | 354,574+ |
 | 👥 **Followers** | 3 |
-| 👤 **Following** | 6 |
+| 👤 **Following** | 7 |
 
 </div>
 
@@ -37,7 +37,7 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 <div align="center">
 
-*📅 Last Updated: March 03, 2026 at 01:22 UTC*
+*📅 Last Updated: March 04, 2026 at 01:18 UTC*
 
 *This README is automatically updated using GitHub Actions*
 
