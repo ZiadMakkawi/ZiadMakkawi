@@ -8,10 +8,10 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 | Metric | Count |
 |--------|-------|
-| 📦 **Total Repositories** | 30 |
+| 📦 **Total Repositories** | 31 |
 | ⭐ **Total Stars Received** | 2 |
-| 💻 **Total Commits** | 47 |
-| 📝 **Lines of Code** | 354,574+ |
+| 💻 **Total Commits** | 49 |
+| 📝 **Lines of Code** | 356,292+ |
 | 👥 **Followers** | 3 |
 | 👤 **Following** | 7 |
 
@@ -37,7 +37,7 @@ I'm a Software Enginner working on various projects and currently Upskilling mys
 
 <div align="center">
 
-*📅 Last Updated: May 16, 2026 at 02:10 UTC*
+*📅 Last Updated: May 17, 2026 at 02:14 UTC*
 
 *This README is automatically updated using GitHub Actions*
 
